@@ -1,0 +1,10 @@
+<html>MUSIC STUDIO!<br><br>
+Sequencer: A window that allows chosen instruments to be added to the mixer.
+Mixer: A window that allows sounds to be edited.
+Piano: Midi sequence that allows a piano melody 
+to be created.
+Instrument: Allows the double clicked instruments to be added to the sequencer.
+Tutorial: Shows a virtual way on how to use Music Studio
+You can access this window anytime from the menu
+at Help -> Content.
+
